@@ -1,5 +1,5 @@
 # Power BI project (2024)
-The repository for the SQL project of Data Academy online course (ENGETO)  
+The repository for the Power BI project of Data Academy online course (ENGETO)  
 
 ---
 
